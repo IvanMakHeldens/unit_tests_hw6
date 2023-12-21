@@ -1,0 +1,11 @@
+============================= test session starts =============================
+collecting ... collected 6 items
+
+test_lists_average.py::test_avg_1 PASSED                                 [ 16%]
+test_lists_average.py::test_avg_2 PASSED                                 [ 33%]
+test_lists_average.py::test_avg_compare_lt PASSED                        [ 50%]
+test_lists_average.py::test_avg_compare_gt PASSED                        [ 66%]
+test_lists_average.py::test_avg_compare_eq PASSED                        [ 83%]
+test_lists_average.py::test_avg_compare_empty PASSED                     [100%]
+
+============================== 6 passed in 0.08s ==============================

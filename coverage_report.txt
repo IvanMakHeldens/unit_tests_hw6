@@ -1,0 +1,8 @@
+
+python -m coverage report
+
+Name                    Stmts   Miss  Cover
+lists_average.py           24      0   100%
+test_lists_average.py      38      1    97%
+-------------------------------------------
+TOTAL                      62      1    98%
